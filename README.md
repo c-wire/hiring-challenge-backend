@@ -4,9 +4,9 @@ You will create an application that serves cocktail recipes using a REST API.
 
 # Specs
 
-## Entity
+## Model
 
-The cocktail or recipe entity needs at least the following properties:
+The cocktail or recipe needs at least the following properties:
 - id
 - name
 - ingredients
@@ -16,6 +16,8 @@ The cocktail or recipe entity needs at least the following properties:
 - instructions
 - creationDate
 - updateDate
+
+How you model the data is up to you.
 
 ## APIs
 Expected is an application that provides at least two APIs:
